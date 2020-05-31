@@ -81,3 +81,5 @@ doc/api/
 # End of https://www.gitignore.io/api/dart
 
 *.txt
+fonts
+assets
